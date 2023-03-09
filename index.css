@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    
+}
+
+
+
+#menu ul li{
+    display: inline-block;
+}
+#menu ul li a {
+    display:block
+}
+ #menu ul li a:hover{
+background-color: rgb(127, 214, 255);
+ }
+
+ /*.arriba{
+    background: url(../img/fondo.png);
+    width: 100%;
+    height: 100px;
+    font: bold;
+    color:white;
+    font-size: 100px;
+    list-style: none;
+    
+ }*/
+
+ article{
+
+    border: solid #eff3f5 1px;
+   /* background-color:  #94cbdb;*/
+    width: 800px;
+    height: 300px;
+    margin: 100px;
+    padding: 50px; 
+
+
+}
+
+/*aside{
+    width: 200px;
+}
+/*
+.aside {
+    width: 150px;
+    height: auto;
+}*/
+
+ p{
+    background-color: #94cbdb;
+    font-size: 24px;
+ }
+
+ /*footer {
+    display: block;
+    background-color:#94cbdb;
+    /*position: absolute;*
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color:#f4f7f8;
+  }*/
+  nav{
+    border: solid 1px #aaa;
+    background-image: url(https://thumbs.dreamstime.com/b/fondo-tecnol%C3%B3gico-668980.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*float: right;*/
+    width: 100%;
+    height: 200px;
+    
+    
+}
+ ul{
+    background-color: #94cbdb;
+ }
+
+
+nav ul li {
+    /*list-style: none;*/
+   /* float: right;*/
+   font-size: xx-large;
+    margin-left: 75px;
+    padding: 25px , 0;
+    color: rgb(41, 79, 206);
+    
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+ nav ul li a:hover{
+    background-color: rgb(61, 113, 148);
+ }
+
+/*footer {
+    border: solid 1px #aaa;
+    background-color:#94cbdb;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color:#090a0a;
+}*/
+
+article {
+    border: solid 1px #aaa;
+    width: 750px;
+    height: 450px;
+    overflow: auto;
+    
+}
+
+ aside{
+    border: solid 1px #aaa;
+    width: 185px;
+    height: 400px;
+    
+}
+
+
+
